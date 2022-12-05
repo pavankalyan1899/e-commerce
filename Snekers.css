@@ -1,0 +1,84 @@
+body {
+    font-family: 'helvetica', sans-serif;
+}
+
+.round {
+
+    border-radius: 10px;
+
+}
+
+.round:hover {
+
+    border: 5px solid rgb(221, 122, 51);
+    border-radius: 10px;
+    opacity: 0.3;
+
+
+
+}
+
+.roundMain {
+    border-radius: 20px;
+}
+
+.uitext {
+    color: gray;
+
+}
+
+.btnOrange {
+    background-color: rgb(255, 126, 27);
+    color: white;
+    border-radius: 15px;
+    align-content: center;
+    justify-content: center;
+    height: 4rem;
+}
+
+.btnOrange:hover {
+
+    background-color: rgb(255, 126, 27);
+    color: white;
+    border-radius: 15px;
+
+
+    height: 4rem;
+}
+
+.orange {
+    color: rgb(255, 126, 27);
+}
+
+.paraGraph {
+    font-weight: 500;
+}
+
+.offer {
+
+    color: rgb(221, 122, 51);
+    background-color: rgb(252, 218, 206);
+    padding: 3px;
+    margin-top: 8px;
+    border-radius: 0.4rem;
+    font-size: medium;
+}
+
+
+.twofityoff {
+    color: rgba(75, 99, 119, 0.466);
+}
+
+.CountBtn {
+    background-color: whitesmoke;
+}
+
+.carding {
+    background-color: white;
+    border: none;
+}
+
+.cardHeading {
+    background-color: white;
+    border: none;
+}
